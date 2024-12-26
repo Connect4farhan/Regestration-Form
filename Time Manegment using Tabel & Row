@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table</title>
+</head>
+
+<body>
+    <style>
+        table,
+        th,
+        td {
+            border: 1px solid rgb(155, 145, 145);
+            border-collapse: collapse;
+
+        }
+
+        body {
+            text-align: center;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+    </style>
+    <h1>TIME MANAGEMENT PLAN TEMPLATE</h1>
+    <table>
+        <tr>
+            <th style="border-collapse: collapse"></th>
+            <th style="border-collapse: collapse;">Monday</th>
+            <th style="border: none;">Tuesday</th>
+            <th style="border: none;">Wednesday</th>
+            <th style="border: none;">Thursday</th>
+            <th style="border: none;">Friday</th>
+        </tr>
+        <tr>
+            <th style="border-collapse: collapse"></th>
+            <th style="background-color: rgb(151, 161, 161);">05/21/2024</th>
+            <th style="background-color: rgb(151, 161, 161);">05/22/2024</th>
+            <th style="background-color: rgb(151, 161, 161);">05/23/2024</th>
+            <th style="background-color: rgb(151, 161, 161);">05/24/2024</th>
+            <th style="background-color: rgb(151, 161, 161);">05/25/2024</th>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">08:00Am</th>
+            <td rowspan="2" style="background-color: rgb(238, 238, 92);">Organization/planning</td>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">08:30Am</th>
+            <td rowspan="6" style="background-color: rgb(92, 233, 238);">Design</td>
+            <td rowspan="6" style="background-color: rgb(92, 233, 238);">Design</td>
+            <td rowspan="2" style="background-color: rgb(238, 238, 92);">Editing</td>
+            <td rowspan="2" style="background-color: rgb(238, 238, 92);">Editing</td>
+
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">09:00Am</th>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">09:30Am</th>
+            <td rowspan="2" style="background-color: rgb(109, 117, 228);">Strategy Meeting</td>
+            <td rowspan="4" style="background-color: rgb(167, 252, 10);">Presentation to Stakeholder</td>
+            <td rowspan="6" style="background-color: rgb(92, 233, 238);">Design</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">10:00Am</th>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">10:30Am</th>
+            <td style="background-color: rgb(238, 92, 153);">Campaign Research</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">11:00Am</th>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">11:30Am</th>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Lunch</td>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Lunch</td>
+            <td rowspan="2" style="background-color: rgb(238, 238, 92);">Editing</td>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Lunch</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">12:00pm</th>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">12:30pm</th>
+            <td rowspan="3" style="background-color: rgb(238, 92, 153);">Campaign Research</td>
+            <td rowspan="4" style="background-color: rgb(109, 117, 228);">Marketing Meeting</td>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Lunch</td>
+            <td rowspan="6" style="background-color: rgb(92, 233, 238);">Design</td>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Lunch</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">01:00pm</th>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">01:30pm</th>
+            <td rowspan="2" style="background-color: rgb(109, 117, 228);">Campaign 3 Copy Meeting</td>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">02:00pm</th>
+            <td rowspan="6" style="background-color: rgb(92, 233, 238);">Design</td>
+            <td rowspan="3" style="background-color: rgb(238, 238, 92);">Editing</td>
+
+
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">02:30pm</th>
+            <td rowspan="4" style="background-color: rgb(167, 252, 10);">Design And Copy Spring Campaign Presentation
+            </td>
+            <td style="background-color: rgb(92, 233, 238);">Design</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">03:00pm</th>
+            <td rowspan="2" style="background-color: rgb(109, 117, 228);">Team Leader Meeting</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">03:30pm</th>
+            <td rowspan="3" style="background-color: rgb(233, 92, 238);">Appointment</td>
+            <td rowspan="4" style="background-color: rgb(109, 117, 228);">Company-Wide Meeting</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">04:00pm</th>
+            <td rowspan="2" style="background-color: rgb(56, 250, 137);">Peer Review</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">04:30pm</th>
+            <td style="background-color: rgb(151, 161, 161);">Email</td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">05:00pm</th>
+            <td rowspan="2" style="background-color: rgb(109, 117, 228);">West Coast Campaign Meeting</td>
+            <td style="background-color: rgb(244, 245, 244);"></td>
+            <td style="background-color: rgb(244, 245, 244);"></td>
+            <td rowspan="2" style="background-color: rgb(109, 117, 228);">West Coast Campaign Meeting </td>
+        </tr>
+        <tr>
+            <th style="background-color: rgb(238, 238, 92);">05:30Am</th>
+            <td style="background-color: rgb(244, 245, 244);"></td>
+            <td style="background-color: rgb(244, 245, 244);"></td>
+            <td style="background-color: rgb(244, 245, 244);"></td>
+        </tr>
+    </table>
+</body>
+
+</html>
